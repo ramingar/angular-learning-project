@@ -1,6 +1,6 @@
 {
   "name": "angular-learning-project",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Angular2 Learning Project from Quickstart Seed project.",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
